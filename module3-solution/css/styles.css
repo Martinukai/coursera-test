@@ -1,0 +1,20 @@
+/** HEADER **/
+
+.navbar-brand {
+  padding-top: 15px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.nav {
+  font-size: 1.5em;
+  background-color: #eeeee4;
+}
+
