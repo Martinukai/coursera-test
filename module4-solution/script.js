@@ -10,6 +10,7 @@
 // or "j", otherwise, the program should say "Good Bye". So, the final output
 // on the console should look like this:
 /*
+
 Hello Yaakov
 Good Bye John
 Good Bye Jen
